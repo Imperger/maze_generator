@@ -6,13 +6,13 @@ Customizable maze generator. Support saving in `png` and `txt` formats.
 
 `--help` show this text
 
-`--size` maze dimensions. Format: WxH, for example 50x30
+`--size` maze dimensions. Format: WxH, for example `50x30`
 
-`--out` Output filename
+`--out` output filename
 
-`--rasterizer` Specify rasterizer. Valid values: 'ascii' or 'png'
+`--rasterizer` specify rasterizer. Valid values: `ascii` or `png`
 
-`--seed` The number based on which the maze will be generated
+`--seed` the number based on which the maze will be generated
 
 `--ascii_render_options` list of symbols `[wall] [pass] [enter] [exit]`
 
